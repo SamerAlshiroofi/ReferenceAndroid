@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Make sure that the language for test device or emulator is Dutch.
 
 ## Before executing a Test Case
-5 test cases have been made in Kotlin.
+5 test cases have been made in Espresso.
   -FabText: test if the text for the Fab is consistantant and correct.
   -MenuButton: test for text behind menu button is clickable and correct.
   -StartViewAppCorrectText: test for all visible text when starting the app is correct.
