@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213631995313",
+    "firebase_url": "https://referenceandroid-80aef.firebaseio.com",
+    "project_id": "referenceandroid-80aef",
+    "storage_bucket": "referenceandroid-80aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213631995313:android:c0dbe0bf9284a5d3",
+        "android_client_info": {
+          "package_name": "com.abnamro.apps.referenceandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213631995313-bgdm78c44c48n11qo5r8ho4bs667mqpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abnamro.apps.referenceandroid",
+            "certificate_hash": "b0ba3816846ad8a0953fb673890fddacd01ce4db"
+          }
+        },
+        {
+          "client_id": "213631995313-otkkcc63e1k54e3t7prjlbr79k6tauso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcMO8nPYapJaLtIciUUy2tS5a8AN7BZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213631995313-otkkcc63e1k54e3t7prjlbr79k6tauso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
