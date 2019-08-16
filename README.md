@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Android Studio](https://developer.android.com/studio/)
 - Application Under Test (AUT): app-debug-androidTest.apk.
 - Connect a test device to you machine or start an emulator before running the tests.
-- Make sure that the language for test device or emulator is dutch.
+- Make sure that the language for test device or emulator is Dutch.
 
 ## Before executing a Test Case
 5 test cases have been made in Kotlin.
