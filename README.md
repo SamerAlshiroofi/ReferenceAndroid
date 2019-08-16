@@ -1,5 +1,5 @@
 # ReferenceAndroid
-For the ReferenceAndroid App I have made some Kotlin test. These test can be run on emulators, local or cload devices.
+For the ReferenceAndroid App I have made some Espresso Kotlin test. These test can be run on emulators, local or cload devices.
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine.
